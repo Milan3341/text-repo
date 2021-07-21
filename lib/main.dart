@@ -17,7 +17,7 @@ class Home extends StatelessWidget {
           'Chibi',
           style: TextStyle(
               color: Colors.black,
-              fontSize: 30,
+              fontSize: 35,
               fontFamily: 'Uchen',
               fontWeight: FontWeight.bold),
         ),
